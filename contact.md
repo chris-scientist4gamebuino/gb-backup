@@ -9,4 +9,4 @@ For all requests, join me on [Discord](https://discord.com/login) : chris.scient
 
 ## Discord Server of Gamebuino Community
 
-[Link for Discord Server of Community](https://discord.gg/R4gj4zT)
+[Link for Discord Server of Community](https://discord.gg/aB6QxTBjBQ)
