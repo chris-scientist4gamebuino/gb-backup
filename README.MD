@@ -16,3 +16,9 @@ Bienvenue sur la sauvegarde du site de Gamebuino !
 ### Gamebuino Classic
 
 Available soon / Bientôt disponible
+
+## Around this repository / Autour de ce dépôt
+
+- [General history of this repository](./general-history-en.md)
+- [Why this repository ?](./why-this-repository.md)
+- [Contact](./contact.md)
