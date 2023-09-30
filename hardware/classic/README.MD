@@ -41,28 +41,28 @@
 - Added 3.5mm audio jack
 - Added battery connector
 
-### Schematics
+## Schematics
 
 [PDF Resources : Gamebuino R2 schematics](./../../pdf/classic/schematics/Gamebuino_r2_schematics.pdf)
 
-### 3D Model
+## 3D Model
 
 [Gamebuino R2 CAD.STEP](./../../other-files/classic/3d-model/Gamebuino_r2_cad.STEP)
 
 STEP is the industry standard format for 3D files. You can open it using the free CAD (Computer Assisted Design) software [Design Spark](http://www.rs-online.com/designspark/electronics/eng/page/mechanical), or any other CAD software like SolidWorks, Catia, etc. Google Sketch is free but only the paid version can open STEP files.
 
-### Case
+## Case
 
 If you want to build your own case, wether it is by laser cutting acrylic, 3D printing ABS, machining stainless steel or carving wood, you can use the following template. Make sure to select a scale of 100% when you print it.
 
 - [PDF Resources : Gamebuino case](./../../pdf/classic/case/Gamebuino_case.pdf)
 - [PDF Resources : Gamebuino case simple](./../../pdf/classic/case/Gamebuino_case_simple.pdf)
 
-### Bootloader
+## Bootloader
 
 The [bootloader](./other/bootloader.md) is a small program that permanently resides in Gamebuino memory which allows you to load games via SD card or USB port. Under normal circumstances loading a new game into Gamebuino would require you to use an external programmer connected to the Gamebuino's ICSP port. The [bootloader](./other/bootloader.md) makes this process easier and faster by eliminating the need for a separate hardware programmer.
 
-### Bill Of Materials
+## Bill Of Materials
 
 ```
 BOTTOM LAYER SMT ----------------------------------
