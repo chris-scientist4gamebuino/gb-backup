@@ -99,49 +99,49 @@ Usedul constants : `LCDWIDTH`, `LCDHEIGHT`, `gb.display.fontWidth` and `gb.displ
 - [gb.display.getBuffer()](./gb-display-getBuffer.md)
 - gb.display.getBitmapPixel(bitmap, x, y)
 
-### Sound
+## Sound
 
 [Sound](./../learning/sound.md) : overall explanation of how the sound library works
 
-#### Tracks
+### Tracks
 
 - gb.sound.playTrack(track, channel)
 - gb.sound.stopTrack(channel)
 - gb.sound.changePatternSet(patternSet, channel)
 
-#### Pattern
+### Pattern
 
 - gb.sound.playPattern(sound, channel)
 - gb.sound.stopPattern(chanel)
 - gb.sound.setPatternLooping(boolean, channel)
 - gb.sound.isPlaying(channel)
 
-#### Notes & commands
+### Notes & commands
 
 - gb.sound.playNote(pitch, duration, channel)
 - gb.sound.command(command, x, y, channel)
 - gb.sound.changeInstrumentSet(instrumentSet, channel)
 
-#### Build-in sounds
+### Build-in sounds
 
 - gb.sound.playOK()
 - gb.sound.playCancel()
 - gb.sound.playTick()
 
-#### Misc
+### Misc
 
 - [gb.sound.setVolume(volume, channel)](./gb-sound-setVolume.md)
 - gb.sound.getVolume(channel)
 - gb.sound.setInstruments(instruments, channel)
 - gb.sound.prescaler
 
-### Battery
+## Battery
 
 - [gb.battery.voltage](./gb-battery-voltage.md)
 - [gb.battery.level](./gb-battery-level.md)
 - [gb.battery.show = true/false](./gb-battery-show.md)
 
-### Backlight
+## Backlight
 
 - gb.backlight.set(brightness)
 - gb.backlight.automatic = true/false
