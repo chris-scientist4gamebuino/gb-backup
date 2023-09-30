@@ -12,7 +12,7 @@
 - Communication : 1x micro USB, 1x micro SD card, 2x I2C, 1x ICSP
 - Battery : ~12-24h life, 300mAh LiPo battery, charged through USB
 - Power : 3.3V, 150mA max
-- Dimensions : ~credit card sized : 90*45*12 mm (3.5*1.8*0.5")
+- Dimensions : ~credit card sized : 90*45*12 mm (3.5x1.8x0.5")
 
 ## Changelog
 
@@ -55,8 +55,8 @@ STEP is the industry standard format for 3D files. You can open it using the fre
 
 If you want to build your own case, wether it is by laser cutting acrylic, 3D printing ABS, machining stainless steel or carving wood, you can use the following template. Make sure to select a scale of 100% when you print it.
 
-[PDF Resources : Gamebuino case](./../../pdf/classic/case/Gamebuino_case.pdf)
-[PDF Resources : Gamebuino case simple](./../../pdf/classic/case/Gamebuino_case_simple.pdf)
+- [PDF Resources : Gamebuino case](./../../pdf/classic/case/Gamebuino_case.pdf)
+- [PDF Resources : Gamebuino case simple](./../../pdf/classic/case/Gamebuino_case_simple.pdf)
 
 ### Bootloader
 

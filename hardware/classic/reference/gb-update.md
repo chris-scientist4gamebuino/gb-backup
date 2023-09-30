@@ -1,7 +1,7 @@
 
 # gb.update() for Gamebuino Classic
 
-[Back to Home](./../../../README.MD) | [Back to Classic Summary](./README.MD)
+[Back to Home](./../../../README.MD) | [Back to Classic Reference Summary](./README.MD)
 
 ## Description
 
