@@ -15,7 +15,8 @@ Bienvenue sur la sauvegarde du site de Gamebuino !
 
 ### Gamebuino Classic
 
-Available soon / Bientôt disponible
+- [Hardware description of Classic (EN)](./hardware/classic/README.MD)
+- [Reference of Classic (EN)](./hardware/classic/reference/README.MD)
 
 ## Around this repository / Autour de ce dépôt
 
