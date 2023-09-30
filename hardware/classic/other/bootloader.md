@@ -82,3 +82,6 @@ write_flash_page(&swap_buffer[some_128_aligned_offset], page_buffer);
 
 Flashed pages can then be read using the regular C commands used to read PROGMEM memory.
 
+## General information
+
+Saved on September 30, 2023

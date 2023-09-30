@@ -23,8 +23,8 @@ None
 
 ## See also
 
-- [gb.titleScreen](./gb-titleScreen.md)
-- [gb.pickRandomSeed](./gb-pickRandomSeed.md)
+- [gb.titleScreen()](./gb-titleScreen.md)
+- [gb.pickRandomSeed()](./gb-pickRandomSeed.md)
 
 ## General information
 

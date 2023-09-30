@@ -29,7 +29,7 @@ None
 
 ## See also
 
-- [gb.begin](./gb-begin.md)
+- [gb.begin()](./gb-begin.md)
 
 ## General information
 
