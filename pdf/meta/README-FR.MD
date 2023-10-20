@@ -10,3 +10,8 @@
 ## Ressources Python
 
 - [Circuit Python v1.2](./python/REFMETA-PYTHON-1.2.pdf)
+
+## Autour de la META
+
+- [Modèle Skin](./../../pdf/meta/around-meta/skin_template.PDF)
+- [Modèle Backpack](./../../pdf/meta/around-meta/backpack_template.PDF)
