@@ -33,7 +33,9 @@ La Gamebuino META permet aux joueurs de jouer aux jeux pixelisés qu'ils aimaien
 
 ## Programmation
 
-Ta console n'a pas seulement été conçue en tant que console de jeu. Nous avons pris le temps d'en faire un outil de création. Tu peux programmer tes propres jeux en **C++** ! Mettre en place l'environnement est simple, et les possibilités de jeu sont sans fin. Créer des jeux pour la Gamebuino META est vraiment pour tous, les débutants comme les experts. Tu peux également utiliser **CircuitPython** pour créer tes jeux.
+Ta console n'a pas seulement été conçue en tant que console de jeu. Nous avons pris le temps d'en faire un outil de création. Tu peux programmer tes propres jeux en **C++** ! Mettre en place l'environnement est simple, et les possibilités de jeu sont sans fin. Créer des jeux pour la Gamebuino META est vraiment pour tous, les débutants comme les experts. Tu peux également utiliser **CircuitPython** et/ou **MicoJS** pour créer tes jeux.
+
+- [MicoJS EDI](https://micojs.github.io)
 
 ## Backpacks
 
