@@ -12,7 +12,7 @@
 - Communication : 1x micro USB, 1x micro SD card, 2x I2C, 1x ICSP
 - Battery : ~12-24h life, 300mAh LiPo battery, charged through USB
 - Power : 3.3V, 150mA max
-- Dimensions : ~credit card sized : 90*45*12 mm (3.5x1.8x0.5")
+- Dimensions : ~credit card sized : 90x45x12 mm (3.5x1.8x0.5")
 
 ## Changelog
 
