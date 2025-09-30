@@ -1,7 +1,7 @@
 
 # Hardware of Gamebuino META
 
-[Back to Home](./../../README.MD) | [Français](README-FR.MD) | Go to Reference of Gamebuino META *COMMING SOON*
+[Back to Home](./../../README.MD) | [Français](README-FR.MD) | Go to Reference of Gamebuino META *COMMING SOON* | [Go to standalone index](./learning/en/standalone/README.MD)
 
 ## Overview
 

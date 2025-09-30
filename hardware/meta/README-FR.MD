@@ -1,7 +1,7 @@
 
 # Fiche technique de la Gamebuino META
 
-[Retour à l'accueil](./../../README.MD) | [English](README-EN.MD) | Voir la documentation de la META *Prochainement*
+[Retour à l'accueil](./../../README.MD) | [English](README-EN.MD) | Voir la documentation de la META *Prochainement* | [Voir les standalone](./learning/fr/standalone/README.MD)
 
 ## Vue d'ensemble
 
