@@ -11,6 +11,7 @@ Bienvenue sur la sauvegarde du site de Gamebuino !
 
 ### Gamebuino META
 
+- [Learning around Gamebuino META](./hardware/meta/learning/README.MD): If you want to create your own games, you should start here.
 - [Hardware description of META](./hardware/meta/README-EN.MD): All informations on the hardware / [Fiche technique de la META](./hardware/meta/README-FR.MD) : toutes les informations techniques sur le META
 - [PDF resources on META](./pdf/meta/README-EN.MD) / [Ressources PDF relatives à la META](./pdf/meta/README-FR.MD)
 

@@ -7,7 +7,7 @@
 
 ### Standalone
 
-Standalone are tutorials which are in only one step / Les standalone sont des tutoriels en un unique étape.
+Standalone are tutorials which are in only one step / Les standalone sont des tutoriels en une unique étape.
 
 - [Standalone english index](./en/standalone/README.MD) | [Standalone sommaire en français](./fr/standalone/README.MD)
 
