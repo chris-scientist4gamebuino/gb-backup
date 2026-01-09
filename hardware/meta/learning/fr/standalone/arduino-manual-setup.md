@@ -1,7 +1,7 @@
 
 # Configuration manuelle d'Arduino
 
-[Retour au sommaire des standalone](README.MD)
+[Retour au sommaire des standalone](README.MD) | [English](../../en/standalone/arduino-manual-setup.md)
 
 Si vous avez rencontré un problème lors de l'installation rapide, où que vous souhaitez mettre un peu plus les mains dans le cambouis, vous êtes au bon endroit !
 

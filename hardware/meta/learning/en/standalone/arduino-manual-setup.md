@@ -1,7 +1,7 @@
 
 # Arduino manual setup
 
-[Back to index of english standalone](README.MD)
+[Back to index of english standalone](README.MD)  | [Français](../../fr/standalone/arduino-manual-setup.md)
 
 If you had an issue during the quick setup, or if you want to know how it works, you're in the right place!
 
